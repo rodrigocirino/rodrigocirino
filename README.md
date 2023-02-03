@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-> Se por questões profissionais quer ver meus +100 repositórios privados, entre em contato.
+> Se por questões profissionais, se quiser ver meus +100 repositórios privados, entre em contato.
 
 **rodrigocirino/rodrigocirino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
