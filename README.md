@@ -2,8 +2,6 @@
 
 Nowadays.
 - 🔭 I am currently working on **my business**
-- 🌱 I am currently learning **how to be rich**
-- 👯 I'm looking to collaborate on **nothing**
 - 📫 All my projects are **private**
  
 <!--
